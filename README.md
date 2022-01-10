@@ -1,4 +1,4 @@
-# Docker image with http_proxy_connect installed
+# NGINX with http_proxy_connect
 
 # Build
 - `docker build -t nginx-upload:v1 . -f Dockerfile`
